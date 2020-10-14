@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14d88c38-f8ac-4547-8359-2f6566a17541" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1iaUmD0m3dH987aXZou1UdSvTlR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\indisystem\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14d88c38-f8ac-4547-8359-2f6566a17541" name="Default Changelist" comment="" />
+      <created>1602145353319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602145353319</updated>
+      <workItem from="1602145354528" duration="56000" />
+      <workItem from="1602145412505" duration="49000" />
+      <workItem from="1602145464917" duration="1182000" />
+      <workItem from="1602146683966" duration="481000" />
+      <workItem from="1602147222505" duration="1083000" />
+      <workItem from="1602148334850" duration="88000" />
+      <workItem from="1602154948260" duration="247000" />
+      <workItem from="1602155261164" duration="301000" />
+      <workItem from="1602155582877" duration="777000" />
+      <workItem from="1602323725160" duration="422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="347" key="#Notifications" timestamp="1602155612767">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="711" y="347" key="#Notifications/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602147234655" />
+    <state x="711" y="347" key="#Notifications/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1602155612767" />
+    <state x="414" y="179" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602148185783">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602148185783" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1602148013242">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602148013242" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1602147196089">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602147196089" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1602147196089">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602147196089" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1602147196088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602147196088" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1602147196089">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602147196089" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1602145408950">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602145408950" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1602145408949">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602145408949" />
+    <state x="359" y="90" width="998" height="708" key="SettingsEditor" timestamp="1602155684814">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="359" y="90" width="998" height="708" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602148385607" />
+    <state x="359" y="90" width="998" height="708" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1602155684814" />
+    <state x="2279" y="93" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602155217580" />
+    <state x="667" y="79" width="586" height="891" key="find.popup" timestamp="1602145571955">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="79" width="586" height="891" key="find.popup/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602145571955" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1602148080462">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050/1920.0.1536.864@0.0.1920.1050" timestamp="1602148080462" />
+  </component>
+</project>
