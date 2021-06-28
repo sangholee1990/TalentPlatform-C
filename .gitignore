@@ -1,0 +1,6 @@
+/.idea/
+/cmake-3.19.2-win64-x64/
+/cmake-build-debug/
+/cmake-build-debug-centos-v73/
+/cmake-build-debug-remote-host/
+/cmake-build-release-mingw/

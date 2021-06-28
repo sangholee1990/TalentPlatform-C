@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BF8733F1-A352-5537-D0ED-5F4E56A37CAF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{82061000-CBA4-3683-CF02-A33D0F717BB1}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{7981279D-5980-B5B7-922F-A69535A248D4}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;gif;jpg;jpeg;png;dlg;rc2;rct;bin;rgs;resx;tiff;tif;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ChartViewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HotSpotDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mfccharts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mfcdemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mfcdemoDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChartViewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HotSpotDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mfccharts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mfcdemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mfcdemoDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="mfcdemo.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\mfcdemo.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\boxicon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\3dscattericon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\areaicon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\baricon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\barmetericon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bubbleicon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\contouricon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\financeicon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\linearmetericon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\lineicon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\pieicon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\polaricon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\pyramidicon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\surfaceicon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\trendicon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\xyicon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\metericon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\gantticon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\angry.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\clock.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\cloud.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\computer.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\doc.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\gas.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\laugh.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\marble.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\marble2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\marble3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\molecule.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\nocomment.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\rain.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\robot1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\robot2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\robot3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\robot4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\robot5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\rock.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\sad.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\service.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\small_computer.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\small_molecule.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\small_user.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\smile.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\snow.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\snowy.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\software.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\star.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\sun.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\tile.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\wood.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\mfcdemo.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

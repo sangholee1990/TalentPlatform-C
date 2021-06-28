@@ -1,0 +1,16 @@
+C:\Users\indisystem\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.6682.181\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\indisystem\CLionProjects\TalentPlatform-C\project\build
+CLion
+CMake Error at CMakeLists.txt:48 (add_executable):
+  The target name "../program.out" is reserved or not valid for certain CMake
+  features, such as generator expressions, and may result in undefined
+  behavior.
+
+
+CMake Error at CMakeLists.txt:54 (target_link_libraries):
+  Cannot specify link libraries for target "../program.out" which is not
+  built by this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/indisystem/CLionProjects/TalentPlatform-C/project/build/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+Unable to determine product file path for target ../program.out. Running and debugging will be unavailable.

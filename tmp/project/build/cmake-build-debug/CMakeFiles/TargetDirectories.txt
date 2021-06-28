@@ -1,0 +1,8 @@
+C:/Users/indisystem/CLionProjects/TalentPlatform-C/project/build/cmake-build-debug/CMakeFiles/../program.out.dir
+C:/Users/indisystem/CLionProjects/TalentPlatform-C/project/build/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/indisystem/CLionProjects/TalentPlatform-C/project/build/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/indisystem/CLionProjects/TalentPlatform-C/project/build/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/indisystem/CLionProjects/TalentPlatform-C/project/build/cmake-build-debug/CMakeFiles/libtest.dir
+C:/Users/indisystem/CLionProjects/TalentPlatform-C/project/build/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/indisystem/CLionProjects/TalentPlatform-C/project/build/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/indisystem/CLionProjects/TalentPlatform-C/project/build/cmake-build-debug/CMakeFiles/install/strip.dir

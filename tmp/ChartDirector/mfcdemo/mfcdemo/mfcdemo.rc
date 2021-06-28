@@ -1,0 +1,295 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#include ""res\\mfcdemo.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""     // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\mfcdemo.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MFCDEMO_DIALOG DIALOGEX 0, 0, 320, 200
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "ChartDirector MFC Demo"
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_CHARTVIEWER0,"Static",SS_BITMAP,119,1,15,13
+    CONTROL         "",IDC_CHARTVIEWER1,"Static",SS_BITMAP,140,1,15,13
+    CONTROL         "",IDC_CHARTVIEWER2,"Static",SS_BITMAP,162,1,15,13
+    CONTROL         "",IDC_CHARTVIEWER3,"Static",SS_BITMAP,183,1,15,13
+    CONTROL         "",IDC_CHARTVIEWER4,"Static",SS_BITMAP,204,1,15,13
+    CONTROL         "",IDC_CHARTVIEWER5,"Static",SS_BITMAP,225,1,15,13
+    CONTROL         "",IDC_CHARTVIEWER6,"Static",SS_BITMAP,246,1,15,13
+    CONTROL         "",IDC_CHARTVIEWER7,"Static",SS_BITMAP,267,1,15,13
+    CONTROL         "",IDC_CHART_TREE,"SysTreeView32",TVS_HASBUTTONS | TVS_HASLINES | TVS_LINESATROOT | WS_BORDER | WS_HSCROLL | WS_TABSTOP,2,1,113,129
+END
+
+IDD_HOTSPOTPARAM DIALOG 0, 0, 228, 158
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Hot Spot Properties"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,90,137,50,14
+    CONTROL         "List1",IDC_PARAMLIST,"SysListView32",LVS_REPORT | WS_BORDER | WS_TABSTOP,7,7,213,127
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904e4"
+        BEGIN
+            VALUE "CompanyName", "TODO: <Company name>"
+            VALUE "FileDescription", "TODO: <File description>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "mfcdemo.exe"
+            VALUE "LegalCopyright", "TODO: (c) <Company name>.  All rights reserved."
+            VALUE "OriginalFilename", "mfcdemo.exe"
+            VALUE "ProductName", "TODO: <Product name>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_MFCDEMO_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 2
+        RIGHTMARGIN, 318
+        TOPMARGIN, 1
+        BOTTOMMARGIN, 198
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+3DSCATTERICON.BMP       BITMAP                  "res\\3dscattericon.bmp"
+
+AREAICON.BMP            BITMAP                  "res\\areaicon.bmp"
+
+BARICON.BMP             BITMAP                  "res\\baricon.bmp"
+
+BARMETERICON.BMP        BITMAP                  "res\\barmetericon.bmp"
+
+BOXICON.BMP             BITMAP                  "res\\boxicon.bmp"
+
+BUBBLEICON.BMP          BITMAP                  "res\\bubbleicon.bmp"
+
+CONTOURICON.BMP         BITMAP                  "res\\contouricon.bmp"
+
+FINANCEICON.BMP         BITMAP                  "res\\financeicon.bmp"
+
+GANTTICON.BMP           BITMAP                  "res\\gantticon.bmp"
+
+LINEARMETERICON.BMP     BITMAP                  "res\\linearmetericon.bmp"
+
+LINEICON.BMP            BITMAP                  "res\\lineicon.bmp"
+
+METERICON.BMP           BITMAP                  "res\\metericon.bmp"
+
+PIEICON.BMP             BITMAP                  "res\\pieicon.bmp"
+
+POLARICON.BMP           BITMAP                  "res\\polaricon.bmp"
+
+PYRAMIDICON.BMP         BITMAP                  "res\\pyramidicon.bmp"
+
+SURFACEICON.BMP         BITMAP                  "res\\surfaceicon.bmp"
+
+TRENDICON.BMP           BITMAP                  "res\\trendicon.bmp"
+
+XYICON.BMP              BITMAP                  "res\\xyicon.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+ANGRY.PNG               PNG                     "res\\angry.png"
+
+BG.PNG                  PNG                     "res\\bg.png"
+
+CLOCK.PNG               PNG                     "res\\clock.png"
+
+CLOUD.PNG               PNG                     "res\\cloud.png"
+
+COMPUTER.PNG            PNG                     "res\\computer.png"
+
+DOC.PNG                 PNG                     "res\\doc.png"
+
+GAS.PNG                 PNG                     "res\\gas.png"
+
+LAUGH.PNG               PNG                     "res\\laugh.png"
+
+MARBLE.PNG              PNG                     "res\\marble.png"
+
+MARBLE2.PNG             PNG                     "res\\marble2.png"
+
+MARBLE3.PNG             PNG                     "res\\marble3.png"
+
+MOLECULE.PNG            PNG                     "res\\molecule.png"
+
+NOCOMMENT.PNG           PNG                     "res\\nocomment.png"
+
+RAIN.PNG                PNG                     "res\\rain.png"
+
+ROBOT1.PNG              PNG                     "res\\robot1.png"
+
+ROBOT2.PNG              PNG                     "res\\robot2.png"
+
+ROBOT3.PNG              PNG                     "res\\robot3.png"
+
+ROBOT4.PNG              PNG                     "res\\robot4.png"
+
+ROBOT5.PNG              PNG                     "res\\robot5.png"
+
+ROCK.PNG                PNG                     "res\\rock.png"
+
+SAD.PNG                 PNG                     "res\\sad.png"
+
+SERVICE.PNG             PNG                     "res\\service.png"
+
+SMALL_COMPUTER.PNG      PNG                     "res\\small_computer.png"
+
+SMALL_MOLECULE.PNG      PNG                     "res\\small_molecule.png"
+
+SMALL_USER.PNG          PNG                     "res\\small_user.png"
+
+SMILE.PNG               PNG                     "res\\smile.png"
+
+SNOW.PNG                PNG                     "res\\snow.png"
+
+SNOWY.PNG               PNG                     "res\\snowy.png"
+
+SOFTWARE.PNG            PNG                     "res\\software.png"
+
+STAR.PNG                PNG                     "res\\star.png"
+
+SUN.PNG                 PNG                     "res\\sun.png"
+
+TILE.PNG                PNG                     "res\\tile.png"
+
+WOOD.PNG                PNG                     "res\\wood.png"
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#include "res\mfcdemo.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"     // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
